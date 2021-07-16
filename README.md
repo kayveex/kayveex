@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kayveex
+- 👀 I’m interested in Web Develompment and Mobile Development
+- 🌱 I’m currently learning C Language and Python 
