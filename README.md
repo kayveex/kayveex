@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @kayveex
-- 👀 I’m interested in Web Develompment and Mobile Development
-- 🌱 I’m currently learning C Language and Python 
+- Student of Universitas Pendidikan Indonesia, from System Education and Information Technology Study Program ✨
+- 👀 I’m interested in Web Develompment and Mobile Development, especially "Front-End Development" Things
+- 🌱 Currently, I'm learning HTML CSS Javascript. In the future, perhaps I'll learn React JS.
