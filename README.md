@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @kayveex
-- 👀 I’m interested in Web Develompment and Mobile Development
-- 🌱 I’m currently learning C Language and Python 
+- 👋 Hi, I’m @kayveex or you can call me as Aldi
+- 👀 I’m interested in Web Development and Mobile Development
+- 📢 I’m currently learning C, others: Java, Python, SQL
+- ✨  Weebs (?) and Tech Enthusiast 
