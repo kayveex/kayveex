@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kayveex or you can call me as Aldi
-- 👀 I’m interested in Web Development and Mobile Development
-- 📢 I’m currently learning C, others: Java, Python, SQL
+- 👋 Hi, I’m Kornelius Rhesa. Actually, @kayveex is my nickname :D
+- 👀 I’m interested in Front End Development
+- 📢 I’m currently learning HTML & CSS
+- 🌎 Programming Languages that I've learned: C, Java, mySQL
 - ✨  Weebs (?) and Tech Enthusiast 
