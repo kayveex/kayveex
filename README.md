@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kornelius Rhesa. Actually, @kayveex is my nickname :D
-- 👀 I’m interested in Front End Development
-- 📢 I’m currently learning HTML & CSS
-- 🌎 Programming Languages that I've learned: C, Java, mySQL
+- 👀 I’m interested in Full-Stack Web Dev.
+- 📢 I’m currently learning Full-Stack Webdev With Laravel.
+- 🌎 Programming Languages that I've learned: C, Java, mySQL, PHP, Javascript.
 - ✨  Weebs (?) and Tech Enthusiast 
