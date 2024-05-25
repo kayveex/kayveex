@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Supp , I'm Kornelius Rhesa, just call me Kay.<br> 💁‍♂️ A dedicated Laravel Fullstack developer.<br>🏫 A third-year student at Education University of Indonesia.<br>👨‍💻 Working on Foodbless Project.<br>📢 Currently learning at Dicoding SIB Cycle 6 - JS Fullstack.<br>✨ Weebs and Tech Enthusiast.
+👋 Supp , I'm Kornelius Rhesa, just call me Kay.<br> 💁‍♂️ A dedicated Multi-stack Web Developer.<br>🏫 A third-year student at Education University of Indonesia.<br>👨‍💻 Working on Foodbless Project.<br>📢 Currently learning at Dicoding SIB Cycle 6 - JS Fullstack.<br>✨ Weebs and Tech Enthusiast.
 
 
 ## 🌐 Socials:
