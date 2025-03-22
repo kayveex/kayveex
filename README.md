@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Supp , I'm Kornelius Rhesa, just call me Kay.<br> 💁‍♂️ A dedicated Multi-stack Web Developer.<br>🏫 A third-year student at Education University of Indonesia.<br>👨‍💻 Working on WarskulHub Project.<br>📢 Currently learning Laravel RESTful API.<br>✨ Weebs and Tech Enthusiast.
+👋 Supp , I'm Kornelius Rhesa, just call me Kay.<br> 💁‍♂️ A dedicated Multi-stack Web Developer.<br>🏫 Almost a freshgrad at Education University of Indonesia.<br>👨‍💻 Working on freelance project.<br>📢 Currently learning Laravel 12.<br>✨ Weebs and Tech Enthusiast.
 
 
 ## 🌐 Socials:
